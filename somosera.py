@@ -1,1 +1,3 @@
-print("hello")
+def greetings(greet: str) -> bool:
+    input = "HI!"
+    pass
