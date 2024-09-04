@@ -5,3 +5,6 @@ HelloShun()
 
 def HelloAgain() : 
     print("Hello, Again!")
+
+def HaHa(): 
+    print("MUHAHAHA")
