@@ -9,3 +9,6 @@ def HelloAgain() :
 
 def HaHa(): 
     print("MUHAHAHA")
+
+def threeway():
+    print("Hi")
