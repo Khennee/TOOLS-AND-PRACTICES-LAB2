@@ -8,3 +8,6 @@ def HelloAgain() :
 
 def HoHo(): 
     print("BOOOOOOOOOO")
+
+def HiHi(): 
+    print("HIIIIIIIIIIII")
