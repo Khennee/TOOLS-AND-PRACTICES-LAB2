@@ -1,4 +1,2 @@
-print("LAB3")
-
-def hi():
-    print("hi")
+def Push():
+    print('fush')
