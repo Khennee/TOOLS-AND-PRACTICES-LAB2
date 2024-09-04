@@ -12,3 +12,4 @@ def HoHo():
 
 def HiHi(): 
     print("HIIIIIIIIIIII")
+
