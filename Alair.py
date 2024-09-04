@@ -1,5 +1,5 @@
 def HelloShun(): 
-    print("Hello Wdadadadld!")
+    print("Hello Wdadadd!")
+    print("Hello World!")    
 
 HelloShun()
-
