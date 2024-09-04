@@ -1,5 +1,5 @@
 def HelloShun(): 
-    print("Hello Wd ajdajd adadad {222 add!")
+    print("Hello Wdadadd!")
     print("Hello World!")    
 
 HelloShun()
@@ -10,5 +10,5 @@ def HelloAgain() :
 def HaHa(): 
     print("MUHAHAHA")
 
-def threeway():
-    print("Hi")
+def HiHi(): 
+    print("HIIIIIIIIIIII")
