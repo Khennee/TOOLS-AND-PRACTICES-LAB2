@@ -1,7 +1,7 @@
 def HelloShun(): 
-    print("Hello Wdadadd!")
-    print("Hello qqq!")    
-
+    print("Hello Wd ajdajd adadad {222 add!")
+    print("Hello World!")    
+# asdsaadaqwqq1231231
 HelloShun()
 
 def HelloAgain() : 
