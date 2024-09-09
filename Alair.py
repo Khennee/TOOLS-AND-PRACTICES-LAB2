@@ -1,11 +1,6 @@
 def HelloShun(): 
-<<<<<<< HEAD
     print("Hello Wd ajdajd adadad {222 add!")
     print("Hello World!")    
-=======
-    print("Hello Wdadadd!")
-    print("Hello qqq!")    
->>>>>>> ALAIR
 
 HelloShun()
 
@@ -17,3 +12,9 @@ def HaHa():
 
 def threeway() : 
     print("Hello, World!")
+
+def conflict() : 
+    print("Hello, Conflict!")
+
+def conflict_2() : 
+    print("Hello, Conflict Again!!")
