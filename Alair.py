@@ -23,3 +23,18 @@ def conflict_2() :
 
 def amend() : 
     print("Hello, git amend!")
+
+def amend_2() : 
+    print("Hello, git amend again!!")
+
+def force_push() : 
+    print("let me in!!")
+
+def force_push_2() : 
+    print("let me in!!!")
+
+def cherry_pick() : 
+    print("cherry pick!!")
+
+def final_push() : 
+    print("final push!!")
