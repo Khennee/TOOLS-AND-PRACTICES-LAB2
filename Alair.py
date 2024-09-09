@@ -32,9 +32,3 @@ def force_push() :
 
 def force_push_2() : 
     print("let me in!!!")
-
-def cherry_pick() : 
-    print("cherry pick!!")
-
-def final_push() : 
-    print("final push!!")
