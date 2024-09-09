@@ -24,3 +24,6 @@ def amend() :
 
 def amend_2() : 
     print("Hello, git amend again!!")
+
+def force_push() : 
+    print("let me in!!")
