@@ -21,3 +21,6 @@ def conflict_2() :
 
 def amend() : 
     print("Hello, git amend!")
+
+def amend_2() : 
+    print("Hello, git amend again!!")
