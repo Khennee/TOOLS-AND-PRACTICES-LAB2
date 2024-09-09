@@ -33,3 +33,6 @@ def force_push_2() :
 
 def cherry_pick() : 
     print("cherry pick!!")
+
+def final_push() : 
+    print("final push!!")
