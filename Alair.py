@@ -27,3 +27,6 @@ def amend_2() :
 
 def force_push() : 
     print("let me in!!")
+
+def force_push_2() : 
+    print("let me in!!!")
